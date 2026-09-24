@@ -1,0 +1,28 @@
+  const images = [
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_3662.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_3762.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_3788.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_3798.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_3799.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_3800.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_3801.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_3805.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4257.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4140.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4507.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4513.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4516.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4405.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4546.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4560.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4570.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4627.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_5858.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_5822.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_5825.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_4539.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_7199.JPG" },
+    { url: "https://cdn.jsdelivr.net/gh/OlewinAcademy/Academy_brochures@main/cuk_2025/IMG_6092.JPG" },
+    
+   
+  ];
